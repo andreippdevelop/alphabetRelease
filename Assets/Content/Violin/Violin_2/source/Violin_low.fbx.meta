@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 38f101106bef25c4d98b7edf8cdec6a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body_low
+    100002: Cylinder073
+    100004: Cylinder074
+    100006: Cylinder075
+    100008: Cylinder076
+    100010: Cylinder077
+    100012: Cylinder078
+    100014: Cylinder079
+    100016: Cylinder080
+    100018: Cylinder081
+    100020: Grif2_low
+    100022: Grif3_low
+    100024: Grif_low
+    100026: Krepegh_low
+    100028: Natyaghka_low
+    100030: Regulyator_low
+    100032: RegulyatorSpic_low
+    100034: Smychok1_low
+    100036: Smychok2_low
+    100038: Smychok3_low
+    100040: Struni_low
+    100042: Vint2_low
+    100044: Vint_low
+    100046: //RootNode
+    400000: Body_low
+    400002: Cylinder073
+    400004: Cylinder074
+    400006: Cylinder075
+    400008: Cylinder076
+    400010: Cylinder077
+    400012: Cylinder078
+    400014: Cylinder079
+    400016: Cylinder080
+    400018: Cylinder081
+    400020: Grif2_low
+    400022: Grif3_low
+    400024: Grif_low
+    400026: Krepegh_low
+    400028: Natyaghka_low
+    400030: Regulyator_low
+    400032: RegulyatorSpic_low
+    400034: Smychok1_low
+    400036: Smychok2_low
+    400038: Smychok3_low
+    400040: Struni_low
+    400042: Vint2_low
+    400044: Vint_low
+    400046: //RootNode
+    2100000: 19 - Default
+    2300000: Body_low
+    2300002: Cylinder073
+    2300004: Cylinder074
+    2300006: Cylinder075
+    2300008: Cylinder076
+    2300010: Cylinder077
+    2300012: Cylinder078
+    2300014: Cylinder079
+    2300016: Cylinder080
+    2300018: Cylinder081
+    2300020: Grif2_low
+    2300022: Grif3_low
+    2300024: Grif_low
+    2300026: Krepegh_low
+    2300028: Natyaghka_low
+    2300030: Regulyator_low
+    2300032: RegulyatorSpic_low
+    2300034: Smychok1_low
+    2300036: Smychok2_low
+    2300038: Smychok3_low
+    2300040: Struni_low
+    2300042: Vint2_low
+    2300044: Vint_low
+    3300000: Body_low
+    3300002: Cylinder073
+    3300004: Cylinder074
+    3300006: Cylinder075
+    3300008: Cylinder076
+    3300010: Cylinder077
+    3300012: Cylinder078
+    3300014: Cylinder079
+    3300016: Cylinder080
+    3300018: Cylinder081
+    3300020: Grif2_low
+    3300022: Grif3_low
+    3300024: Grif_low
+    3300026: Krepegh_low
+    3300028: Natyaghka_low
+    3300030: Regulyator_low
+    3300032: RegulyatorSpic_low
+    3300034: Smychok1_low
+    3300036: Smychok2_low
+    3300038: Smychok3_low
+    3300040: Struni_low
+    3300042: Vint2_low
+    3300044: Vint_low
+    4300000: Smychok1_low
+    4300002: Smychok3_low
+    4300004: Smychok2_low
+    4300006: Regulyator_low
+    4300008: RegulyatorSpic_low
+    4300010: Grif_low
+    4300012: Grif2_low
+    4300014: Body_low
+    4300016: Natyaghka_low
+    4300018: Grif3_low
+    4300020: Vint_low
+    4300022: Krepegh_low
+    4300024: Vint2_low
+    4300026: Struni_low
+    4300028: Cylinder073
+    4300030: Cylinder074
+    4300032: Cylinder075
+    4300034: Cylinder076
+    4300036: Cylinder077
+    4300038: Cylinder078
+    4300040: Cylinder079
+    4300042: Cylinder080
+    4300044: Cylinder081
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

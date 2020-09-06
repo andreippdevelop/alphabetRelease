@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 9fabe99852b96ba4aad97413ff366cb8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Carrito_TODO
+    100004: TODO_Daga01
+    100006: TODO_Daga02
+    100008: TODO_Dragon
+    100010: TODO_Espada01
+    100012: TODO_Espada02
+    100014: TODO_Espada03
+    100016: TODO_Espada04
+    100018: TODO_Espada05
+    100020: TODO_Hacha01
+    100022: TODO_Hacha02
+    400000: //RootNode
+    400002: Carrito_TODO
+    400004: TODO_Daga01
+    400006: TODO_Daga02
+    400008: TODO_Dragon
+    400010: TODO_Espada01
+    400012: TODO_Espada02
+    400014: TODO_Espada03
+    400016: TODO_Espada04
+    400018: TODO_Espada05
+    400020: TODO_Hacha01
+    400022: TODO_Hacha02
+    2100000: Shader_Carrito
+    2100002: shader_Daga01
+    2100004: Shader_Dragon
+    2100006: Shader_Espada01
+    2100008: shader_Espada02
+    2100010: Shader_Espada03
+    2100012: Shader_Espada04
+    2100014: Shader_Espada05
+    2100016: Shader_HAcha01
+    2100018: Shader_Hacha02
+    2300000: Carrito_TODO
+    2300002: TODO_Daga01
+    2300004: TODO_Daga02
+    2300006: TODO_Dragon
+    2300008: TODO_Espada01
+    2300010: TODO_Espada02
+    2300012: TODO_Espada03
+    2300014: TODO_Espada04
+    2300016: TODO_Espada05
+    2300018: TODO_Hacha01
+    2300020: TODO_Hacha02
+    3300000: Carrito_TODO
+    3300002: TODO_Daga01
+    3300004: TODO_Daga02
+    3300006: TODO_Dragon
+    3300008: TODO_Espada01
+    3300010: TODO_Espada02
+    3300012: TODO_Espada03
+    3300014: TODO_Espada04
+    3300016: TODO_Espada05
+    3300018: TODO_Hacha01
+    3300020: TODO_Hacha02
+    4300000: Carrito_TODO
+    4300002: TODO_Daga01
+    4300004: TODO_Daga02
+    4300006: TODO_Dragon
+    4300008: TODO_Espada01
+    4300010: TODO_Espada02
+    4300012: TODO_Espada03
+    4300014: TODO_Espada04
+    4300016: TODO_Espada05
+    4300018: TODO_Hacha01
+    4300020: TODO_Hacha02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carrito_TODOMat
+    second: {fileID: 2100000, guid: 883683c8768899c45a7bd4a297f419a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Daga01Mat
+    second: {fileID: 2100000, guid: 38d05318a8e9dd645bef28ba10087d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Daga02Mat
+    second: {fileID: 2100000, guid: c78096f758ed9f64685da4048f5b9054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_DragonMat
+    second: {fileID: 2100000, guid: ddc693833299d7446937aa3bfb4b4b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Espada01Mat
+    second: {fileID: 2100000, guid: 11a30b5b4b21b1a4d816f9f5a3727681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Espada02Mat
+    second: {fileID: 2100000, guid: 59303c6186e098c48b390d9164ea501f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Espada03Mat
+    second: {fileID: 2100000, guid: e996080d75ee5214690f3ac44a3b17c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Espada04Mat
+    second: {fileID: 2100000, guid: b8bb3f78e941a64479aae086ba3f1597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Espada05Mat
+    second: {fileID: 2100000, guid: f3436adf3270161498ab8026c020fd18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Hacha01Mat
+    second: {fileID: 2100000, guid: 5fd92ad3796a87846a1dcaebc1ea201e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TODO_Hacha02Mat
+    second: {fileID: 2100000, guid: 3c5f4704bd844aa4cbc21534a6d66fe2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

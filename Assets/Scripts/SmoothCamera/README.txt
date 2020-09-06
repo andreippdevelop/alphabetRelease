@@ -1,0 +1,1 @@
+Vuforia behaviour should be FIRST_TARGET

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5023488957045775686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5541981783426951330}
+  - component: {fileID: 4411099442853167327}
+  - component: {fileID: 349656036603190801}
+  - component: {fileID: 613012530148068178}
+  m_Layer: 5
+  m_Name: Policy English
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5541981783426951330
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5023488957045775686}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 440.63568, y: 0}
+  m_SizeDelta: {x: 841.27136, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &4411099442853167327
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5023488957045775686}
+  m_CullTransparentMesh: 0
+--- !u!114 &349656036603190801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5023488957045775686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.5294118, g: 0.5372549, b: 0.6039216, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b6d6e7563defd89408f1b8f455b8b64a, type: 3}
+    m_FontSize: 40
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 50
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1.3
+  m_Text: "This privacy policy governs the utilization of the software application
+    \u201CLiving Alphabet\u201D. The Application is using Augmented Reality with the
+    option to take screenshots with virtual objects and share them with other users.
+    Please read these privacy policy rules and contact us if you have any questions.
+    \n\n<b>What information does the Application obtain and how is it used?</b>\n\n
+    Automatically Collected Information In addition, the Application may collect certain
+    information automatically, including, but not limited to, the type of mobile device
+    you use, your mobile devices unique device ID, the IP address of your mobile device,
+    your mobile operating system, the type of mobile Internet browsers you use, and
+    the information about the way you use the Application. Does the \n\n<b>Application
+    collect precise real-time location information of the device?</b>\n\n This Application
+    does not collect precise information about the location of your mobile device.
+    \n\n<b>Does the Application use the camera of the device?</b> \n\nYes. Using a
+    camera is necessary for This Application\u2019s correct performance of AR services
+    \u2014 surface and facial tracking, to provide features of TryOn, product measurement
+    and placement into your environment. This Application doesn\u2019t record or save
+    any video/ photo materials by itself. \n\n<b>Does the Application use TrueDepth
+    camera of the device?</b>\n\nThis Application uses TrueDepth camera in order to
+    provide try-on experience. The data from TrueDepth camera is used only at the
+    moment of providing try-on experience and being deleted immediately after finishing
+    the session. We do not collect, store or process any TrueDepth camera data besides
+    this case. User can save data from TrueDepth camera only by him/herself with Capture
+    Screen feature in The Application. In this case user is only the person that owns,
+    stores and responsible for sharing TrueDepth camera data. \n\n<b>Do third parties
+    see and/or have access to the information obtained by the Application? </b>\n\nOnly
+    aggregated, anonymized data is periodically transmitted to external services to
+    help us improve the Application and our service. We will share your information
+    with third parties only in the ways that are described in this privacy statement.
+    We may disclose User Provided and Automatically Collected Information: \n\u2022
+    \ as required by law, such as to comply with a subpoena, or similar legal process;
+    \n\u2022  when we believe in good faith that disclosure is necessary to protect
+    our rights, protect your safety or the safety of others, investigate fraud, or
+    respond to a government request; \n\u2022  with our trusted services providers
+    who work on our behalf, do not have an independent use of the information we disclose
+    to them, and have agreed to adhere to the rules set forth in this privacy statement.
+    \n\n<b>What are my opt-out rights?</b>\n\nYou can stop all collection of information
+    by the Application easily by uninstalling the Application. You may use the standard
+    uninstall processes as may be available as part of your mobile device or via the
+    mobile application marketplace or network.  Security We are concerned about safeguarding
+    the confidentiality of your information. We provide physical, electronic, and
+    procedural safeguards to protect the information we process and maintain. For
+    example, we limit access to this information to authorized employees and contractors
+    who need to know that information in order to operate, develop or improve our
+    Application. Please be aware that, although we endeavor to provide reasonable
+    security for information we process and maintain, no security system can prevent
+    all potential security breaches. \n\nContact us If you have any questions regarding
+    privacy while using the Application, or have questions about our practices, please
+    contact us via email at"
+--- !u!114 &613012530148068178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5023488957045775686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 0
+  m_VerticalFit: 2

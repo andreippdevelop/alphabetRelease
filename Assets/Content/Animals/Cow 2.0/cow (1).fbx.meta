@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: d1d62578e4b335c41bbae217da5c3931
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2
+    100002: 2_0
+    100004: Armature
+    100006: Armature_0
+    100008: Armature_rootJoint
+    100010: Bone.001_Armature
+    100012: Bone.002_Armature
+    100014: Bone.003_Armature
+    100016: Bone.004_Armature
+    100018: Bone.005_Armature
+    100020: Bone.006_Armature
+    100022: Bone.007_Armature
+    100024: Bone.008_Armature
+    100026: Bone.009_Armature
+    100028: Bone.010_Armature
+    100030: Bone.011_Armature
+    100032: Bone.012_Armature
+    100034: Bone.013_Armature
+    100036: Bone.014_Armature
+    100038: Bone.015_Armature
+    100040: Bone.016_Armature
+    100042: Bone.016_Armature_end
+    100044: Bone.017_Armature
+    100046: Bone.018_Armature
+    100048: Bone.019_Armature
+    100050: Bone.021_Armature
+    100052: Bone.022_Armature
+    100054: Bone.022_Armature_end
+    100056: Bone.023_Armature
+    100058: Bone.023_Armature_end
+    100060: Bone.024_Armature
+    100062: Bone.025_Armature
+    100064: Bone.025_Armature_end
+    100066: Bone.026_Armature
+    100068: Bone.027_Armature
+    100070: Bone.028_Armature
+    100072: Bone.029_Armature
+    100074: Bone.030_Armature
+    100076: Bone.031_Armature
+    100078: Bone.032_Armature
+    100080: Bone.033_Armature
+    100082: Bone.034_Armature
+    100084: Bone.035_Armature
+    100086: Bone.036_Armature
+    100088: Bone.037_Armature
+    100090: Bone.038_Armature
+    100092: Bone.038_Armature_end
+    100094: Bone.039_Armature
+    100096: Bone.039_Armature_end
+    100098: Bone.040_Armature
+    100100: Bone.040_Armature_end
+    100102: Bone.041_Armature
+    100104: Bone.041_Armature_end
+    100106: Bone.042_Armature
+    100108: Bone.042_Armature_end
+    100110: Bone.043_Armature
+    100112: Bone.043_Armature_end
+    100114: Bone.044_Armature
+    100116: Bone.045_Armature
+    100118: Bone.046_Armature
+    100120: Bone.046_Armature_end
+    100122: Bone.047_Armature
+    100124: Bone.047_Armature_end
+    100126: Bone.048_Armature
+    100128: Bone.048_Armature_end
+    100130: Bone.049_Armature
+    100132: Bone.049_Armature_end
+    100134: Bone_Armature
+    100136: //RootNode
+    100138: Hemi
+    100140: Hemi.001
+    100142: Hemi.002
+    100144: Hemi.003
+    100146: Lamp
+    100148: Lamp.001
+    100150: Root
+    100152: RootNode (gltf orientation matrix)
+    100154: RootNode (model correction matrix)
+    100156: Sphere
+    100158: Sphere_0
+    400000: 2
+    400002: 2_0
+    400004: Armature
+    400006: Armature_0
+    400008: Armature_rootJoint
+    400010: Bone.001_Armature
+    400012: Bone.002_Armature
+    400014: Bone.003_Armature
+    400016: Bone.004_Armature
+    400018: Bone.005_Armature
+    400020: Bone.006_Armature
+    400022: Bone.007_Armature
+    400024: Bone.008_Armature
+    400026: Bone.009_Armature
+    400028: Bone.010_Armature
+    400030: Bone.011_Armature
+    400032: Bone.012_Armature
+    400034: Bone.013_Armature
+    400036: Bone.014_Armature
+    400038: Bone.015_Armature
+    400040: Bone.016_Armature
+    400042: Bone.016_Armature_end
+    400044: Bone.017_Armature
+    400046: Bone.018_Armature
+    400048: Bone.019_Armature
+    400050: Bone.021_Armature
+    400052: Bone.022_Armature
+    400054: Bone.022_Armature_end
+    400056: Bone.023_Armature
+    400058: Bone.023_Armature_end
+    400060: Bone.024_Armature
+    400062: Bone.025_Armature
+    400064: Bone.025_Armature_end
+    400066: Bone.026_Armature
+    400068: Bone.027_Armature
+    400070: Bone.028_Armature
+    400072: Bone.029_Armature
+    400074: Bone.030_Armature
+    400076: Bone.031_Armature
+    400078: Bone.032_Armature
+    400080: Bone.033_Armature
+    400082: Bone.034_Armature
+    400084: Bone.035_Armature
+    400086: Bone.036_Armature
+    400088: Bone.037_Armature
+    400090: Bone.038_Armature
+    400092: Bone.038_Armature_end
+    400094: Bone.039_Armature
+    400096: Bone.039_Armature_end
+    400098: Bone.040_Armature
+    400100: Bone.040_Armature_end
+    400102: Bone.041_Armature
+    400104: Bone.041_Armature_end
+    400106: Bone.042_Armature
+    400108: Bone.042_Armature_end
+    400110: Bone.043_Armature
+    400112: Bone.043_Armature_end
+    400114: Bone.044_Armature
+    400116: Bone.045_Armature
+    400118: Bone.046_Armature
+    400120: Bone.046_Armature_end
+    400122: Bone.047_Armature
+    400124: Bone.047_Armature_end
+    400126: Bone.048_Armature
+    400128: Bone.048_Armature_end
+    400130: Bone.049_Armature
+    400132: Bone.049_Armature_end
+    400134: Bone_Armature
+    400136: //RootNode
+    400138: Hemi
+    400140: Hemi.001
+    400142: Hemi.002
+    400144: Hemi.003
+    400146: Lamp
+    400148: Lamp.001
+    400150: Root
+    400152: RootNode (gltf orientation matrix)
+    400154: RootNode (model correction matrix)
+    400156: Sphere
+    400158: Sphere_0
+    2100000: Material.003
+    2100002: Material.001
+    4300000: 2_0
+    4300002: Sphere_0
+    7400000: Armature_0|IDLE_Armature_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: 2_0
+    13700002: Sphere_0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 9b9d3b686b8e8bc438a2ea9bfa08990b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 0f09e8a9246b80749a07251fa37eefad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature_0|IDLE_Armature_0
+      takeName: Armature_0|IDLE_Armature_0
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

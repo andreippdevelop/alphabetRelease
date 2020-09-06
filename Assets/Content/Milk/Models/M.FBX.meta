@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: b7b6b45dedf5a0e4ab888105f1816762
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Cap_Grp_cap_part02_mesh
+    100004: Cap_Grp_cap_part03_mesh
+    100006: cap_part01_mesh_Cap_Grp
+    100008: Group001
+    100010: //RootNode
+    400000: Box01
+    400002: Cap_Grp_cap_part02_mesh
+    400004: Cap_Grp_cap_part03_mesh
+    400006: cap_part01_mesh_Cap_Grp
+    400008: Group001
+    400010: //RootNode
+    2100000: 'Material #48'
+    2100002: waterBottle_OBJ_VRayMtl11SG
+    2300000: Box01
+    2300002: Cap_Grp_cap_part02_mesh
+    2300004: Cap_Grp_cap_part03_mesh
+    2300006: cap_part01_mesh_Cap_Grp
+    3300000: Box01
+    3300002: Cap_Grp_cap_part02_mesh
+    3300004: Cap_Grp_cap_part03_mesh
+    3300006: cap_part01_mesh_Cap_Grp
+    4300000: Box01
+    4300002: Cap_Grp_cap_part02_mesh
+    4300004: cap_part01_mesh_Cap_Grp
+    4300006: Cap_Grp_cap_part03_mesh
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: c91a00d5032e45d41bcd83d988b6ef4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waterBottle_OBJ_VRayMtl11SG
+    second: {fileID: 2100000, guid: 6476eb88fea47d04089b978ecef3c1a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
